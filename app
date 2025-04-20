@@ -1,0 +1,1 @@
+console.log('Servidor rodando com Docker e Node.js')
